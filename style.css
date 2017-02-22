@@ -1,0 +1,11 @@
+/* Red paragraphs */
+p {
+	color: #F00;
+}
+
+div {
+	background-color: rgb(128, 50, 50); 
+}
+li {
+	color: #FFF;
+}
